@@ -1,0 +1,60 @@
+Links úteis para o TCC
+
+Artigos:
+Poluição sonora urbana:estudo de caso da Subprefeitura de Pinheiros/SP - USP
+Ambiente urbano e percepção da poluição sonora
+Mapas de ruído: casos brasileiros de sucesso
+A utilização de mapas acústicos como ferramenta de identificação do excesso de ruído em áreas urbanas
+AVALIAÇÃO DA POLUIÇÃO SONORA NA UNICAMP. 
+Feasibility Study of Google's Teachable Machine in Diagnosis of Tooth-Marked Tongue
+An Efficient Learning Method for Sound Classification using Transfer Learning for Hammering Test
+https://www.deeplearningbook.com.br/deep-learning-a-tempestade-perfeita/
+Have you taught your machine yet?
+Classification of Sonar Sounds using Google Teachable Machines
+Environmental Sound Classification Using Deep Learning
+Comparison of Time-Frequency Representations for Environmental Sound Classification using Convolutional Neural Networks
+A Distributed Sensor Network for Monitoring Noise Level and Noise Sources in Urban Environments
+Urban Noise Monitoring in the Stadtlärm Project - A Field Report
+Ensemble of handcrafted and deep features for urban sound classification
+http://www.mpsp.mp.br/portal/page/portal/documentacao_e_divulgacao/doc_biblioteca/bibli_servicos_produtos/bibli_boletim/bibli_bol_2006/Cad-Juridicos_n.48.pdf#page=185 ->pag185 em diante
+https://downloads.editoracientifica.org/articles/201202574.pdf
+https://www.researchgate.net/profile/Luis-Pereira-25/publication/237130636_Inteligencia_Artificial_Mito_e_Ciencia/links/00463527ca46b52079000000/Inteligencia-Artificial-Mito-e-Ciencia.pdf
+https://www.scielo.br/j/csp/a/HShbZqbTQrPrrRZSy5LFcsc/?format=pdf&lang=pt
+https://www.who.int/docstore/peh/noise/Comnoise-1.pdf
+https://www.euro.who.int/__data/assets/pdf_file/0008/136466/e94888.pdf
+https://dgcaudio.com.br/wp-content/uploads/2016/06/microfones_-_caracteristicas_e_aplicacoes.pdf
+https://dcm.ffclrp.usp.br/~augusto/publications/2003-sistemas-inteligentes-cap4.pdf
+https://repositorio.ufrn.br/bitstream/123456789/32713/1/Metodoautomatizacaoprocesso_Torres_2021.pdf
+https://repositorio.ufsc.br/bitstream/handle/123456789/228240/Desenvolvimento%20de%20um%20Modelo%20de%20Avalia%c3%a7%c3%a3o%20Automatizada%20de%20Aprendizagem%20de%20Machine%20Learning%20voltado%20%c3%a0%20Classifica%c3%a7%c3%a3o%20de%20Imagens%20no%20Ensino%20M%c3%a9dio.pdf?sequence=1&isAllowed=y
+https://dl.acm.org/doi/abs/10.1145/3334480.3382839
+http://www.dominiopublico.gov.br/download/teste/arqs/cp136499.pdf
+https://uceff.edu.br/anais/index.php/cau/article/view/16
+https://app.uff.br/riuff/bitstream/handle/1/22872/Lucas_Fran%c3%a7a.pdf?sequence=1&isAllowed=y
+
+
+
+
+
+Possíveis aquisições:
+Microfone recomendado estúdio - pai da danna - unidirecional
+Microfone Trust GXT 212 Mico USB 23791 condensador omnidirecional preto
+Sndway-medidor digital de nível de som
+Módulo de microfone omnidirecional, mems para interface esp32 inmp141 i2s de alta precisão, baixa potência, volume ultra pequeno
+	
+
+Diversos:
+Mic Omnidirecional
+https://more.ufsc.br/ -> citação
+https://medium.com/camilawaltrick/introducao-machine-learning-o-que-e-tipos-de-aprendizado-de-maquina-445dcfb708f0
+https://blog.etereo.io/an-introduction-to-teachable-machine-ai-for-dummies-61d1f97f5cf
+ESC: Dataset for Environmental Sound Classification
+https://www.euro.who.int/en/health-topics/environment-and-health/noise/noise
+https://www.ifsc.usp.br/~donoso/fisica_arquitetura/12_som_acustica_1.pdf
+https://www.tensorflow.org/js?hl=pt-br
+
+
+Livros:
+
+https://books.google.com.br/books?hl=pt-BR&lr=&id=oDSZDwAAQBAJ&oi=fnd&pg=PT4&dq=intelig%C3%AAncia+artificial&ots=5GhBJ5PvQV&sig=wPypJuKV99jdENNM_LPJSjLka34#v=onepage&q=intelig%C3%AAncia%20artificial&f=false
+https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf
+http://minegrado.ovh:3000/General-Team/docs/raw/branch/master/ML_DL_NN_books/Machine_Learning/Generic-books-1/GETTING_STARTED_WITH_TENSORFLOW.pdf
